@@ -1,0 +1,9 @@
+abhidhaanama~njarii has following structure.
+
+it's content is organized in `varga`s, and each `varga` has multiple `upavargas`. under each upavarga, multiple ayurvedic dhaatus are each explained in one or more shlokas.
+
+dict.dz preserves this structure, and is navigatable, and searchable in these layers.
+
+`अभिधानमञ्जरी` is root_index page's headword, from which we can navigate to categories/sub catogories, as they have their own pages. and all dhaatus. each page has at top, their treepath, to quickly know it's place in book structure, and below each, next, previous links will be there.
+
+
