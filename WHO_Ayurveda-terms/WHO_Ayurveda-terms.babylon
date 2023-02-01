@@ -577,7 +577,7 @@ ITA-1.9.3.2.29	pretya	प्रेत्य<br>After death<br>Having died, after
 ITA-1.9.3.3.1	manaḥ, cetaḥ	मनः, चेतः<br>Mind, psyche<br>The faculty through which cognitive organs (indriya) connect with the soul (atman). Denotes consciousness.
 
 मनोगुण|स्वरूप
-ITA-1.9.3.3.2	manoguṇaḥ/svarūpam	मनोगुणः/स्वरूपम्<br>Characteristics of mind<br>Two features of mind (manas): minuteness (the smallest possible structure) (anutva) and oneness or singularity (ekatva).
+ITA-1.9.3.3.2	manoguṇaḥ/svarūpam	मनोगुणः/स्वरूपम्<br>Characteristics of mind<br>Two features of mind (manasः minuteness (the smallest possible structure) (anutva) and oneness or singularity (ekatva).
 
 अणुत्व|परमाणु
 ITA-1.9.3.3.3	aṇutva, paramāṇu	अणुत्व, परमाणु<br>Atomicity<br>Having the dimension of an atom , the smallest possible or minute entity (cf. atomism).
@@ -838,7 +838,7 @@ ITA-1.9.4.2.20	viśadaḥ	विशदः<br>Conspicuous-ness, leanness, shinine
 ITA-1.9.4.2.21	picchilaḥ	पिच्छिलः<br>Sliminess, murkiness<br>The quality of a substance which is responsible for providing a coating effect to body tissues.
 
 आत्मगुण
-ITA-1.9.4.3.1	ātmaguṇaḥ	आत्मगुणः<br>Qualities of the self<br>The six attributes of the self (atma): intelligence (buddhi), pleasure (sukha), sorrow (duḥkha), desire (iccha), aversion (dvesha) and effort (prayatna).
+ITA-1.9.4.3.1	ātmaguṇaḥ	आत्मगुणः<br>Qualities of the self<br>The six attributes of the self (atmaः intelligence (buddhi), pleasure (sukha), sorrow (duḥkha), desire (iccha), aversion (dvesha) and effort (prayatna).
 
 बुद्धि
 ITA-1.9.4.3.2	buddhiḥ	बुद्धिः<br>Intelligence, intellect<br>The power of forming and retaining concepts and general notions: intelligence, reason, intellect, discernment or judgement.
@@ -889,7 +889,7 @@ ITA-1.9.4.4.9	yuktiḥ	युक्तिः<br>Logical management, rationale<br
 ITA-1.9.4.4.10	saṃskāraḥ	संस्कारः<br>Alteration of properties<br>The quality of being able to induce a change or transformation in the original properties of any substance.
 
 अभ्यास
-ITA-1.9.4.4.11	The quality of being able to repeat an action or procedure to abhyāsaḥ acquire expertise, as exemplified by the saying “practice makes perfect”: an important quality for physicians and pharmacists.	अभ्यासः<br>Practice
+ITA-1.9.4.4.11	The quality of being able to repeat an action or procedure to abhyāsaḥ acquire expertise, as exemplified by the saying “practice makes perfectः an important quality for physicians and pharmacists.	अभ्यासः<br>Practice
 
 कर्म
 ITA-1.9.5.1	karma	कर्म<br>Action<br>Activity, one of the six ontological categories of an object. It refers to pharmacological, nutritional and action in the context of medical practice.
@@ -1581,8 +1581,8 @@ ITA-2.9.1.11	ṣaṣṭamamāsa-garbhaḥ	षष्ठमासगर्भः<b
 सप्तममासगर्भ
 ITA-2.9.1.12	saptamamāsa-garbhaḥ	सप्तममासगर्भः<br>Seventh month of pregnancy<br>This month is characterized by nourishment of all foetal elements; fatigue of the pregnant woman; complete foetal development; clear manifestation of all body parts and organs; full formation of body parts.
 
-अष्टममासगर्भ:
-ITA-2.9.1.13	aṣṭamamāsa-garbha:	अष्टममासगर्भ:<br>Eighth month of pregnancy<br>This month is characterized by frequent joyfulness of the pregnant woman; frequent exhaustion of the pregnant woman; intermittent foetal movements in the womb; intermittent absence of foetal movements in the womb.
+अष्टममासगर्ः
+ITA-2.9.1.13	aṣṭamamāsa-garbha:	अष्टममासगर्ः<br>Eighth month of pregnancy<br>This month is characterized by frequent joyfulness of the pregnant woman; frequent exhaustion of the pregnant woman; intermittent foetal movements in the womb; intermittent absence of foetal movements in the womb.
 
 प्रजायनी|प्रजननकाल
 ITA-2.9.1.14	prajāyanī / prajananakālaḥ	प्रजायनी / प्रजननकालः<br>Onset signs of approaching labour<br>This month is characterized in the pregnant woman by bodily exhaustion; a tired expression; relaxed eyes; a feeling as if the heart is separating; descent of the abdomen; heaviness in the lower abdomen; a pricking-type pain in the groin; a pricking-type pain in the bladder region; a pricking type-pain in the lower back; a pricking-type pain in the abdomen; a pricking-type pain in the sides of the chest and flanks; a pricking-type pain in the back; vaginal secretions; disinclination for food; appearance of labour pains; secretion of amniotic fluid; laxity of the abdomen; pain in the hips and pelvic region; loss of taste; excessive salivation; frequent excessive urination; pain in the thighs; abdominal pain; lower back pain; pain in the back; precordial and cardiac pain; pain in the bladder region; pain in the groin region; a breaking-type pain in the vagina; splitting type of pain in the labia; a pricking-type pain in the vagina; quivering of the vagina; vaginal secretions; a feeling as if eyes are separating; spitting; frequent excessive defecation.
@@ -3075,8 +3075,8 @@ ITA-3.17.6	jarāyuḥ	जरायुः<br>Fetal membranes
 उल्व
 ITA-3.17.7	ulvam	उल्वम्<br>Birthing custard, vernix caseosa
 
-बीज:
-ITA-3.17.8	bīja	बीज:<br>Seed, germinative matrix<br>Male seed (pumbija) or female seed (stribija).
+बीः
+ITA-3.17.8	bīja	बीः<br>Seed, germinative matrix<br>Male seed (pumbija) or female seed (stribija).
 
 बीजभाग
 ITA-3.17.9	bījabhāgaḥ	बीजभागः<br>Part of seed
@@ -6876,8 +6876,8 @@ ITA-5.76.45	gātragrahaḥvamanavyāpat	गात्रग्रहः-वमन
 जीवादानम्-वमनव्यापत्
 ITA-5.76.46	jīvādānam-vamanavyāpat	जीवादानम्-वमनव्यापत्<br>Condition of bleeding due to faulty emetic therapy<br>A condition characterized by death due to blood loss; thirst; syncope or swooning; insanity.
 
-विभ्रंश:-वमनव्यापत्
-ITA-5.76.47	vibraṃśaḥ-vamanavyāpat	विभ्रंश:-वमनव्यापत्<br>Condition of rectal prolapse or mental perversion due to faulty emetic therapy
+विभ्रंः-वमनव्यापत्
+ITA-5.76.47	vibraṃśaḥ-vamanavyāpat	विभ्रंः-वमनव्यापत्<br>Condition of rectal prolapse or mental perversion due to faulty emetic therapy
 
 स्तम्भः-वमनव्यापत्
 ITA-5.76.48	stambhaḥ-vamanavyāpat	स्तम्भः-वमनव्यापत्<br>Condition of body rigidity due to faulty emetic therapy<br>A condition characterized by retention of flatus; stiffness of anal region; proctalgia; in which morbid dosha is eliminated only in small quantities.
@@ -7062,8 +7062,8 @@ ITA-5.76.107	bhuktabhakta; pītodakasya āsthāpanasya vyāpadaḥ	भुक्�
 वमितविरिक्तयोस्तु आस्थापनस्य व्यापद
 ITA-5.76.108	vamitaviriktayostu āsthāpanasya vyāpadaḥ	वमितविरिक्तयोस्तु आस्थापनस्य व्यापदः<br>Condition caused by medicated decoction enema administered to person who has just taken emetic therapy and purgation therapy<br>A condition characterized by administration of niruha vasti which burns the dehydrated body as if ulcerated by application of alkalis.
 
-कॄ तनस्त: कर्मणो आस्थापनं
-ITA-5.76.109	kṝtanastah karmaṇo āsthāpanaṃ	कॄ तनस्त: कर्मणो आस्थापनं<br>Condition caused by medicated decoction enema administered to person who has just taken errhine therapy<br>A condition characterized by obstruction of circulation channels leading to impairment of senses.
+कॄतनस्ः कर्मणो आस्थापन
+ITA-5.76.109	kṝtanastah karmaṇo āsthāpanaṃ	कॄ तनस्ः कर्मणो आस्थापनं<br>Condition caused by medicated decoction enema administered to person who has just taken errhine therapy<br>A condition characterized by obstruction of circulation channels leading to impairment of senses.
 
 कॄ द्धभीत आस्थापनस्य व्यापद
 ITA-5.76.110	kṝddhabhīta āsthāpanasya vyāpadaḥ	कॄ द्धभीत आस्थापनस्य व्यापदः<br>Condition caused by medicated decoction enema administered to person who is angry or fearful
@@ -7080,8 +7080,8 @@ ITA-5.76.113	baddhodara; chidrodara; udakodara; ādhmānārtānāṃ āsthāpana
 अलसक|विसूचिक|आम प्रजात|आमातिसारिणाम आस्थापनस्यव्यापद
 ITA-5.76.114	alasaka; visūcika; āma prajāta; āmātisāriṇāma āsthāpanasyavyāpadaḥ	अलसक; विसूचिक; आम प्रजात; आमातिसारिणाम आस्थापनस्यव्यापदः<br>Condition caused by medicated decoction enema administered to person with intumescence of abdomen with constipation and flatus<br>A condition characterized by some or all the following signs and symptoms: clinical features of āma. Alasaka is a type of indigestion caused by vitiation of vata which is obstructed by kapha and is characterized by constipation; abdominal colic and flatulence.
 
-मधुमेह कुष्ठिनोर्व्याधे: आस्थापनस्य व्यापद
-ITA-5.76.115	madhumeha kuṣṭhinorvyādheḥ āsthāpanasya vyāpadaḥ	मधुमेह कुष्ठिनोर्व्याधे: आस्थापनस्य व्यापदः<br>Condition caused by medicated decoction enema administered to person with diabetes and skin diseases<br>A condition characterized by an aggravation of the clinical features of madhumeha kuṣṭa.
+मधुमेह-कुष्ठिनोर्व्याध|आस्थापनस्य व्यापद
+ITA-5.76.115	madhumeha kuṣṭhinorvyādheḥ āsthāpanasya vyāpadaḥ	मधुमेह कुष्ठिनोर्व्याधः आस्थापनस्य व्यापदः<br>Condition caused by medicated decoction enema administered to person with diabetes and skin diseases<br>A condition characterized by an aggravation of the clinical features of madhumeha kuṣṭa.
 
 अनुवासन|स्नेह बस्ति कर्म चिकित्सापचार|स्नेहबस्ति व्यापद
 ITA-5.76.116	anuvāsana/ sneha basti karma cikitsāpacāra, sneha basti vyāpad	अनुवासन/स्नेह बस्ति कर्म चिकित्सापचार, स्नेहबस्ति व्यापद<br>Condition due to improper medicated oily enema
@@ -7863,8 +7863,8 @@ ITA-7.1.3	kalkaḥ	कल्कः<br>Paste
 क्वाथ|शृत|निर्यूह
 ITA-7.1.4	kvāthaḥ, śṛtaḥ, niryūhaḥ	क्वाथः, शृतः, निर्यूहः<br>Decoction
 
-चूर्ण|रज|क्षोड:
-ITA-7.1.5	cūrṇam, rajaḥ,kṣodaḥ	चूर्णम्, रजः, क्षोड:<br>Powder
+चूर्ण|रज|क्षोः
+ITA-7.1.5	cūrṇam, rajaḥ,kṣodaḥ	चूर्णम्, रजः, क्षोः<br>Powder
 
 स्वरस
 ITA-7.1.6	svarasaḥ	स्वरसः<br>Juice
@@ -8152,7 +8152,7 @@ ITA-7.2.1.6	māraṇam	मारणम्<br>Calcination or incineration of mine
 ITA-7.2.1.7	Bhasma	भस्म<br>Calcinated minerals, metals or marine products<br>The ashes of minerals or metals obtained by calcination or incineration.
 
 भस्मपरीक्षा|वारितर|रेखापूर्णता|निश्चन्द्र|निरुत्थ|अपुनर्भव
-ITA-7.2.1.8	bhasmaparīkṣā [: vāritara, rekhāpurṇatā,, niścandra, niruttha, apunarbhava ]	भस्मपरीक्षा [वारितर, रे खापूर्णता, निश्चन्द्र, निरुत्थ, अपुनर्भव]<br>Testing of calcinated minerals<br>An assay of calcinated minerals based on the following criteria: verifying microfine nature by flotation on water (varitara), filling in the flexor creases of the hand (rekhapurnata), non-lustrous nature (nischandra) and non-reversal to metallic state (niruttha, apunarbhava).
+ITA-7.2.1.8	bhasmaparīkṣā ः vāritara, rekhāpurṇatā,, niścandra, niruttha, apunarbhava ]	भस्मपरीक्षा [वारितर, रे खापूर्णता, निश्चन्द्र, निरुत्थ, अपुनर्भव]<br>Testing of calcinated minerals<br>An assay of calcinated minerals based on the following criteria: verifying microfine nature by flotation on water (varitara), filling in the flexor creases of the hand (rekhapurnata), non-lustrous nature (nischandra) and non-reversal to metallic state (niruttha, apunarbhava).
 
 निर्वापण|निमज्जन
 ITA-7.2.1.9	nirvāpaṇam/nimajjanam	निर्वापणम्/निमज्जनम्<br>Immersion of heated solid in liquid
@@ -8244,8 +8244,8 @@ ITA-7.2.3.5	kāṃkṣī/sphaṭikā	कांक्षी/स्फटिका
 हरिताल
 ITA-7.2.3.6	haritālam	हरितालम्<br>Orpiment, yellow arsenic<br>Arsenic trisulfide (As2S3). Duly processed haritalam is employed as a stand-alone medicine or as an ingredient in the preparation of polyherbo-mineral pharmaceutical formulations.
 
-मन:शिला
-ITA-7.2.3.7	manaḥśilā	मन:शिला<br>Realgar<br>As2S2. Duly processed manahshila is employed as a standalone medicine or as an ingredient in the preparation of polyherbo-mineral pharmaceutical formulations.
+मःशिला
+ITA-7.2.3.7	manaḥśilā	मःशिला<br>Realgar<br>As2S2. Duly processed manahshila is employed as a standalone medicine or as an ingredient in the preparation of polyherbo-mineral pharmaceutical formulations.
 
 अञ्जन
 ITA-7.2.3.8	añjanam	अञ्जनम्<br>Antimony trisulfide; collyrium<br>Sb2S3. Duly processed anjanam is employed as a standalone medicine or as an ingredient in the preparation of polyherbo-mineral pharmaceutical formulations.
@@ -9561,8 +9561,8 @@ ITA-9.5.37	srotoñjana	स्रोतोऽञ्जन<br>Stibnite used as col
 पिण्डी
 ITA-9.5.38	piṇḍī	पिण्डी<br>Eye poultice<br>A therapeutic procedure in which mild sudation is achieved over the eye and orbital region by filling paste or medicines into small cloth packets and applying them over the closed eyelids.
 
-बिडालक:
-ITA-9.5.39	biḍālaka:	बिडालक:<br>Lid ointment<br>A therapeutic procedure in which a medicated paste is applied over the closed eyelids.
+बिडालः
+ITA-9.5.39	biḍālaka:	बिडालः<br>Lid ointment<br>A therapeutic procedure in which a medicated paste is applied over the closed eyelids.
 
 कर्णरोगचिकित्सा
 ITA-9.5.40	karṇarogacikitsā	कर्णरोगचिकित्सा<br>Management of diseases of the ear<br>Treatment of diseases related to the ear.
@@ -9582,29 +9582,29 @@ ITA-9.5.44	utpalabhedakaḥ	उत्पलभेदकः<br>Lobuloplasty type 
 वल्लूरक
 ITA-9.5.45	vallūrakaḥ	वल्लूरकः<br>Lobuloplasty type 3<br>A type of lobuloplasty indicated when both flaps of the divided earlobe are circular, short and equal.
 
-आसङ्गिम:
-ITA-9.5.46	āsaṅgima	आसङ्गिम:<br>Lobuloplasty type 4<br>A type of lobuloplasty indicated when the inner flap of the divided earlobe is long, and the outer flap is almost negligible.
+आसङ्गिः
+ITA-9.5.46	āsaṅgima	आसङ्गिः<br>Lobuloplasty type 4<br>A type of lobuloplasty indicated when the inner flap of the divided earlobe is long, and the outer flap is almost negligible.
 
 गण्डकर्ण
 ITA-9.5.47	gaṇḍakarṇaḥ	गण्डकर्णः<br>Lobuloplasty type 5<br>A type of lobuloplasty indicated when the outer flap of the divided earlobe is long, and the inner flap is almost negligible.
 
-आहार्य:
-ITA-9.5.48	āhārya	आहार्य:<br>Lobuloplasty type 6<br>A type of lobuloplasty indicated when both flaps of the divided earlobe are absent and the whole lobule is reconstructed.
+आहार्ः
+ITA-9.5.48	āhārya	आहार्ः<br>Lobuloplasty type 6<br>A type of lobuloplasty indicated when both flaps of the divided earlobe are absent and the whole lobule is reconstructed.
 
-निर्वेधिम:
-ITA-9.5.49	nirvedhima	निर्वेधिम:<br>Lobuloplasty type 7<br>A type of lobuloplasty indicated when both flaps of the divided earlobe are absent upto the root and it is repaired with the tragus as the base.
+निर्वेधिः
+ITA-9.5.49	nirvedhima	निर्वेधिः<br>Lobuloplasty type 7<br>A type of lobuloplasty indicated when both flaps of the divided earlobe are absent upto the root and it is repaired with the tragus as the base.
 
 व्यायोजिम
 ITA-9.5.50	vyāyojimaḥ	व्यायोजिमः<br>Lobuloplasty type 8<br>A type of lobuloplasty indicated when one flap of the divided earlobe is thick and the other one thin or when one is regular and the other irregular.
 
-कपाटसन्धिक:
-ITA-9.5.51	kapāṭasandhika	कपाटसन्धिक:<br>Lobuloplasty type 9<br>A type of lobuloplasty indicated when the inner division of the earlobe is long and the outer one short.
+कपाटसन्धिः
+ITA-9.5.51	kapāṭasandhika	कपाटसन्धिः<br>Lobuloplasty type 9<br>A type of lobuloplasty indicated when the inner division of the earlobe is long and the outer one short.
 
-अर्धकपाटसन्धिक:
-ITA-9.5.52	ardhakapāṭasandhika	अर्धकपाटसन्धिक:<br>Lobuloplasty type 10<br>A type of lobuloplasty indicated when the outer division of the earlobe is long and the inner one short.
+अर्धकपाटसन्धिः
+ITA-9.5.52	ardhakapāṭasandhika	अर्धकपाटसन्धिः<br>Lobuloplasty type 10<br>A type of lobuloplasty indicated when the outer division of the earlobe is long and the inner one short.
 
-सङ्क्षिप्त:
-ITA-9.5.53	saṅkṣipta	सङ्क्षिप्त:<br>Lobuloplasty type 11<br>A type of lobuloplasty indicated when the pinna is atrophied, and one flap of the divided ear lobule is absent and the other one very small.
+सङ्क्षिप्ः
+ITA-9.5.53	saṅkṣipta	सङ्क्षिप्ः<br>Lobuloplasty type 11<br>A type of lobuloplasty indicated when the pinna is atrophied, and one flap of the divided ear lobule is absent and the other one very small.
 
 हीनकर्ण
 ITA-9.5.54	hīnakarṇaḥ	हीनकर्णः<br>Lobuloplasty type 12<br>A type of lobuloplasty indicated when both flaps of the split earlobe are lacking a base and little musculature is present in or around the cheek.
@@ -9615,8 +9615,8 @@ ITA-9.5.55	vallīkarṇaḥ	वल्लीकर्णः<br>Lobuloplasty type 
 यष्टिकर्ण
 ITA-9.5.56	yaṣṭikarṇaḥ	यष्टिकर्णः<br>Lobuloplasty type 14<br>A type of lobuloplasty indicated when both flaps of the split lobule have keloid tissue, are vascular and very small.
 
-काकौष्ठक:
-ITA-9.5.57	kākauṣṭhaka	काकौष्ठक:<br>Lobuloplasty type 15<br>A type of lobuloplasty indicated when the flaps of the split ear are lacking musculature, have split ends and insignificant blood supply.
+काकौष्ठः
+ITA-9.5.57	kākauṣṭhaka	काकौष्ठः<br>Lobuloplasty type 15<br>A type of lobuloplasty indicated when the flaps of the split ear are lacking musculature, have split ends and insignificant blood supply.
 
 कर्णपूरण
 ITA-9.5.58	karṇapūraṇam	कर्णपूरणम्<br>Retention of medications in ear canal<br>The procedure of instilling lukewarm oils or herbal juices into the ear and retaining them for a specific time.
@@ -9723,8 +9723,8 @@ ITA-9.5.91	pratisāraṇam	प्रतिसारणम्<br>Gentle applicati
 शल्यतन्त्र
 ITA-9.6.1	śalyatantram	शल्यतन्त्रम्<br>Surgery<br>One of the eight clinical branches of Āyurveda which deals with surgery.
 
-शस्त्रकर्मयोग्यवैद्यलक्षण:
-ITA-9.6.2	śastrakarmayogyavaidyalakṣaṇa	शस्त्रकर्मयोग्यवैद्यलक्षण:<br>Qualities of ideal surgeon<br>The qualities or attributes required by the ideal surgeon.
+शस्त्रकर्मयोग्यवैद्यलक्षः
+ITA-9.6.2	śastrakarmayogyavaidyalakṣaṇa	शस्त्रकर्मयोग्यवैद्यलक्षः<br>Qualities of ideal surgeon<br>The qualities or attributes required by the ideal surgeon.
 
 अग्रोपहरणीय
 ITA-9.6.3	agropaharaṇīyaḥ	अग्रोपहरणीयः<br>Checklist for preoperative preparation<br>The list of objects to be kept ready or at hand before any operative procedure.
@@ -10245,8 +10245,8 @@ ITA-9.6.174	kavaladhāraṇam (vraṇacikitsā)	कवलधारणम् (व
 धूम|धूमपान|व्रणचिकित्सा
 ITA-9.6.175	dhūmaḥ/ dhūmapānam (vraṇacikitsā)	धूमः/धूमपानम् (व्रणचिकित्सा)<br>Therapeutic smoking for wound management<br>Therapeutic inhalation of medicated smoke.
 
-क्षौद्रसर्पि:|व्रणचिकित्सा
-ITA-9.6.176	kṣaudrasarpi (vraṇacikitsā)	क्षौद्रसर्पि: (व्रणचिकित्सा)<br>Application of honey and ghee for wound management<br>Therapeutic application of honey and ghee to a fresh wound.
+क्षौद्रसर्प|व्रणचिकित्सा
+ITA-9.6.176	kṣaudrasarpi (vraṇacikitsā)	क्षौद्रसर्पः (व्रणचिकित्सा)<br>Application of honey and ghee for wound management<br>Therapeutic application of honey and ghee to a fresh wound.
 
 यन्त्र|व्रणचिकित्सा
 ITA-9.6.177	yantram (vraṇacikitsā)	यन्त्रम् (व्रणचिकित्सा)<br>Use of blunt instrument Therapeutic removal of a deeply embedded foreign body or to assist surgical morbid material from a wound using a blunt instrument. procedures for wound management
